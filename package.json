@@ -1,0 +1,23 @@
+{
+  "name": "chrome-platform-analytics",
+  "version": "1.6.1",
+  "description": "Javascript Google Analytics (GA) client library for Chrome Platform Applications (and Extensions).",
+  "main": "google-analytics-bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatablack/chrome-platform-analytics.git"
+  },
+  "keywords": [
+    "ga",
+    "google analytics"
+  ],
+  "author": "GoogleChrome",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tatablack/chrome-platform-analytics/issues"
+  },
+  "homepage": "https://github.com/tatablack/chrome-platform-analytics#readme"
+}
